@@ -1,0 +1,28 @@
+name: REuseful
+favicon: null
+layout_spectrum: 0.7344547854736447
+typography_spectrum: 0.8474353486672044
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.2450759147759527
+  lightness: 0.42618901608511806
+  saturation: 0.6185454421211034
+  rhythmicContrast: 0.5225082472898066
+purpose: []
